@@ -1,4 +1,5 @@
 # TiQRCodeView
+This library generate Ti.UI.ImageView. Specify the top/left and more props. iOS/Android support!
 
 
 ## How to use
